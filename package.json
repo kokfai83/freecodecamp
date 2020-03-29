@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "kok Fai",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "kok Fai",
 	"scripts": {
 		"start": "node server.js"
 	},
